@@ -18,3 +18,12 @@ Für das Anwenden der einzelnen Patches verwende ich jeweils folgenden Befehl:
 Die Patches müssen mind. einmal nach dem Aufruf von `make update` angewendet werden. Ein wiederholtes Patchen ist unkritisch.
 
 Die Patches sind so aufgebaut, dass das Patchen im Grundverzeichnis der Gluon-Buildumgebung durchgeführt werden muß.
+
+---
+
+# Patchfiles im Raw-Format
+[001-add-mi-router-4a-gigabit-gluon.patch](/001-add-mi-router-4a-gigabit-gluon.patch?raw=true)  
+[002-add-mi-router-4a-gigabit-openwrt.patch](002-add-mi-router-4a-gigabit-openwrt.patch?raw=true)  
+[003-XIAOMI-MIR4A-GIGABIT.dts.patch](003-XIAOMI-MIR4A-GIGABIT.dts.patch?raw=true)  
+[004-u-boot-upgrade.patch](004-u-boot-upgrade.patch?raw=true)  
+[005-690-net-add-support-for-threaded-NAPI-polling.patch.patch](005-690-net-add-support-for-threaded-NAPI-polling.patch.patch?raw=true)  
