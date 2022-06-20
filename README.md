@@ -21,7 +21,11 @@ Die Patches sind so aufgebaut, dass das Patchen im Grundverzeichnis der Gluon-Bu
 
 ---
 
-# Patchfiles im Raw-Format
+Beim Bau des `ramips-mt7621` Targets wird dann ein Sysupgrade-Image für den Xiaomi Mi Router 4A Gigabit Edition erzeugt. 
+
+---
+
+### Patchfiles im Raw-Format
 [001-add-mi-router-4a-gigabit-gluon.patch](/001-add-mi-router-4a-gigabit-gluon.patch?raw=true)  
 [002-add-mi-router-4a-gigabit-openwrt.patch](002-add-mi-router-4a-gigabit-openwrt.patch?raw=true)  
 [003-XIAOMI-MIR4A-GIGABIT.dts.patch](003-XIAOMI-MIR4A-GIGABIT.dts.patch?raw=true)  
